@@ -7,3 +7,5 @@ In the initial phase of our project, we embark on a comprehensive exploration of
 Transitioning into Inferential Statistics, we initiate with the Chi-square test of independence to assess the independence of two categorical variables. Following this, the Kruskal-Wallis test is executed to evaluate if the categories within each variable share the same distribution. Lastly, the Mann-Whitney U test is applied to examine the distributions of continuous variables concerning the occurrences of heart disease. These inferential tests provide valuable insights into the interplay and associations within the dataset.
 
 Concluding the project, we delve into the development of multiple logistic regression models. Our approach involves building distinct models with varied combinations of variables, assessing their performance, and selecting the optimal model based on the R-squared value. This final phase encapsulates the culmination of our data analysis journey, providing a robust foundation for drawing informed conclusions and making predictions related to heart disease.
+
+Detailed report is available in the file `Project_Report.pdf`
